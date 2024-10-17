@@ -10,7 +10,7 @@ I have a passion for combining analytical thinking with creative problem-solving
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Expanding my team's final project app <a href="https://food-waste-i3l25qcwx-lambric42s-projects.vercel.app/" target="_blank">Pantry Pal</a>**
+- 💼 I'm currently working on: **💻 Expanding my team's final project app <a href="https://github.com/jonathandhill/PantryPal" target="_blank">Pantry Pal</a>**
 - 🌱 I'm currently learning: **📚 Clean Code by Robert Cecil Martin**
 - 💬 Ask me about: **💡 JavaScript, React, Next.js, Node.js, Typescript, and RESTful APIs**
 - ⚡ Fun fact: **🎸 I'm a former professional guitarist & music teacher 🛥️ I've performed & lived on cruise ships**
