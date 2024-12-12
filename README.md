@@ -5,14 +5,14 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://www.linkedin.com/in/jonathanburthill/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/jonathandhill" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:jonathan.burt.hill@gmail.com" aria-label="Send an email to Jonathan Hill"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">☀️ As I end my time learning (more than I could have imagined) in the School of Code's intensive full-stack bootcamp, I am ready to start my first role in tech.
+ **<h3 align="left">☀️ I am ready to start my first tech role having graduated from the School of Code's intensive full-stack bootcamp.
 I have a passion for combining analytical thinking with creative problem-solving. As a former teacher and musician, I enjoy learning from and tailoring my communication to those around me. Along with a methodical approach, I have a growing appreciation for secure and efficient code and I thrive in collaborative, innovative environments. I commit to immersing myself in up-to-date technologies and current best practices while honing my fundamentals.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Expanding my team's final project app <a href="https://github.com/jonathandhill/PantryPal" target="_blank">Pantry Pal</a>**
-- 🌱 I'm currently learning: **📚 Clean Code by Robert Cecil Martin**
-- 💬 Ask me about: **💡 JavaScript, React, Next.js, Node.js, Typescript, and RESTful APIs**
+- 🌱 I'm currently learning: **Machine Learning, 📚 Clean Code by Robert Cecil Martin**
+- 💬 Ask me about: **💡 Python, JavaScript, React, Next.js, Node.js, Typescript, and RESTful APIs**
 - ⚡ Fun fact: **🎸 I'm a former professional guitarist & music teacher 🛥️ I've performed & lived on cruise ships**
 
  **<h3 align="left">Skills</h3>**
